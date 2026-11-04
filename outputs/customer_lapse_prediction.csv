@@ -1,0 +1,84 @@
+customer_id,Recency,Frequency,Monetary,Segment,Cluster,Lapse_Status
+1001,136,3,649.45,Regular Customer,0,Inactive Customer
+1002,103,2,1433.2,At Risk Customer,0,Inactive Customer
+1004,134,1,601.8,At Risk Customer,1,Inactive Customer
+1005,1,1,2218.25,High Value Customer,0,Active Customer
+1006,300,1,887.3,At Risk Customer,1,Inactive Customer
+1007,10,3,2467.7,High Value Customer,0,Active Customer
+1008,98,3,1256.15,Regular Customer,0,Inactive Customer
+1009,47,3,1100.55,Regular Customer,0,At Risk Customer
+1010,83,3,1660.0,Regular Customer,0,At Risk Customer
+1012,37,4,2455.3,Regular Customer,2,At Risk Customer
+1013,8,5,998.7,Regular Customer,0,Active Customer
+1014,23,2,1660.5,High Value Customer,0,Active Customer
+1015,220,2,1552.0,At Risk Customer,1,Inactive Customer
+1016,40,6,3548.85,Regular Customer,2,At Risk Customer
+1017,61,3,2197.95,Regular Customer,0,At Risk Customer
+1018,16,1,1058.4,New / Occasional Customer,0,Active Customer
+1019,49,5,2959.65,Regular Customer,2,At Risk Customer
+1020,248,1,869.25,At Risk Customer,1,Inactive Customer
+1021,85,1,705.6,New / Occasional Customer,0,At Risk Customer
+1022,174,2,2237.5,At Risk Customer,1,Inactive Customer
+1023,31,5,2349.15,Regular Customer,2,At Risk Customer
+1024,73,5,1324.4,Regular Customer,0,At Risk Customer
+1025,36,2,2136.0,New / Occasional Customer,0,At Risk Customer
+1026,96,2,1145.6,At Risk Customer,0,Inactive Customer
+1027,270,1,57.8,At Risk Customer,1,Inactive Customer
+1028,45,1,515.7,New / Occasional Customer,0,At Risk Customer
+1029,88,3,1286.2,Regular Customer,0,At Risk Customer
+1030,62,2,1480.8,New / Occasional Customer,0,At Risk Customer
+1032,128,3,2576.7,Regular Customer,0,Inactive Customer
+1033,113,6,4959.4,Regular Customer,2,Inactive Customer
+1034,143,2,945.9,At Risk Customer,1,Inactive Customer
+1035,20,2,1659.8,High Value Customer,0,Active Customer
+1036,76,4,1823.8,Regular Customer,0,At Risk Customer
+1037,69,2,1068.3,New / Occasional Customer,0,At Risk Customer
+1039,24,3,3488.25,High Value Customer,2,Active Customer
+1040,112,2,1232.8,At Risk Customer,0,Inactive Customer
+1042,26,3,1267.6,Regular Customer,0,Active Customer
+1043,110,2,2034.0,At Risk Customer,0,Inactive Customer
+1044,109,1,1868.0,At Risk Customer,0,Inactive Customer
+1046,9,3,3113.6,High Value Customer,2,Active Customer
+1047,208,1,566.4,At Risk Customer,1,Inactive Customer
+1048,182,1,292.5,At Risk Customer,1,Inactive Customer
+1049,78,2,279.0,New / Occasional Customer,0,At Risk Customer
+1050,4,3,1087.85,Regular Customer,0,Active Customer
+1051,168,1,976.0,At Risk Customer,1,Inactive Customer
+1052,35,5,3610.0,Regular Customer,2,At Risk Customer
+1053,27,4,4197.95,High Value Customer,2,Active Customer
+1054,219,2,972.65,At Risk Customer,1,Inactive Customer
+1055,67,3,2277.9,Regular Customer,0,At Risk Customer
+1057,29,3,3359.75,High Value Customer,2,Active Customer
+1058,12,9,6534.25,High Value Customer,2,Active Customer
+1059,55,1,926.4,New / Occasional Customer,0,At Risk Customer
+1060,214,4,2242.1,Regular Customer,1,Inactive Customer
+1061,119,2,818.5,At Risk Customer,0,Inactive Customer
+1062,71,2,486.45,New / Occasional Customer,0,At Risk Customer
+1063,198,3,3212.0,Regular Customer,1,Inactive Customer
+1064,80,2,868.95,New / Occasional Customer,0,At Risk Customer
+1067,115,2,654.8,At Risk Customer,0,Inactive Customer
+1068,91,2,2137.0,At Risk Customer,0,Inactive Customer
+1069,39,4,491.4,Regular Customer,0,At Risk Customer
+1070,221,1,1884.8,At Risk Customer,1,Inactive Customer
+1073,82,1,72.0,New / Occasional Customer,0,At Risk Customer
+1074,13,1,458.4,New / Occasional Customer,0,Active Customer
+1075,17,2,811.5,New / Occasional Customer,0,Active Customer
+1076,15,4,1249.3,Regular Customer,0,Active Customer
+1078,44,1,1453.5,New / Occasional Customer,0,At Risk Customer
+1080,131,1,348.0,At Risk Customer,1,Inactive Customer
+1083,41,1,949.5,New / Occasional Customer,0,At Risk Customer
+1084,59,2,778.8,New / Occasional Customer,0,At Risk Customer
+1085,34,3,3870.6,Regular Customer,2,At Risk Customer
+1086,57,2,1924.8,New / Occasional Customer,0,At Risk Customer
+1087,19,4,2344.6,High Value Customer,2,Active Customer
+1089,58,4,2394.4,Regular Customer,2,At Risk Customer
+1090,94,6,5750.95,Regular Customer,2,Inactive Customer
+1091,127,1,108.0,At Risk Customer,1,Inactive Customer
+1092,129,3,1517.65,Regular Customer,0,Inactive Customer
+1093,18,5,2039.3,High Value Customer,2,Active Customer
+1094,148,3,375.15,Regular Customer,1,Inactive Customer
+1095,22,6,4541.55,High Value Customer,2,Active Customer
+1096,70,4,1768.15,Regular Customer,0,At Risk Customer
+1097,217,2,585.2,At Risk Customer,1,Inactive Customer
+1099,38,6,2009.15,Regular Customer,2,At Risk Customer
+1100,33,4,1955.35,Regular Customer,0,At Risk Customer

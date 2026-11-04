@@ -1,0 +1,11 @@
+ticket_id,customer_id,message
+501,1001,My order is delayed. Please help me.
+502,1002,I received a damaged product.
+503,1005,I want a refund for my cancelled order.
+504,1007,My payment was deducted twice. Urgent!
+505,1008,I received the wrong product.
+506,1009,I cannot login to my account.
+507,1010,My delivery has not arrived.
+508,1012,Please cancel my order.
+509,1013,I need help with my account.
+510,1014,I was charged extra money. Please resolve immediately.

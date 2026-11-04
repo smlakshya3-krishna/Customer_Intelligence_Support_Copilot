@@ -1,0 +1,11 @@
+ticket_id,customer_id,message,Redacted_Message,Category,Priority,Assigned_Team
+501,1001,My order is delayed. Please help me.,My order is delayed. Please help me.,Delivery,Low,Delivery Team
+502,1002,I received a damaged product.,I received a damaged product.,Product Issue,Medium,Product Support Team
+503,1005,I want a refund for my cancelled order.,I want a refund for my cancelled order.,Refund,Medium,Refund Team
+504,1007,My payment was deducted twice. Urgent!,My payment was deducted twice. Urgent!,Payment,High,Payment Team
+505,1008,I received the wrong product.,I received the wrong product.,Product Issue,Medium,Product Support Team
+506,1009,I cannot login to my account.,I cannot login to my account.,Account,Low,Account Support Team
+507,1010,My delivery has not arrived.,My delivery has not arrived.,Delivery,Medium,Delivery Team
+508,1012,Please cancel my order.,Please cancel my order.,Order Cancellation,Low,Order Support Team
+509,1013,I need help with my account.,I need help with my account.,Account,Low,Account Support Team
+510,1014,I was charged extra money. Please resolve immediately.,I was charged extra money. Please resolve immediately.,Payment,High,Payment Team

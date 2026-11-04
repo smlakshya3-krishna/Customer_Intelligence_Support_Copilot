@@ -1,0 +1,14 @@
+Customer_Query,Retrieved_Policy,Similarity_Score,Agent_Response
+What is the refund policy?,INSTAMART CUSTOMER REFUND AND CANCELLATION POLICY,0.579,Relevant policy information found: INSTAMART CUSTOMER REFUND AND CANCELLATION POLICY
+Can I get a refund for my cancelled order?,"4. CANCELLED ORDERS
+Customers can request a refund for eligible cancelled orders.",0.482,"Relevant policy information found: 4. CANCELLED ORDERS
+Customers can request a refund for eligible cancelled orders."
+How can I request a refund?,"7. NON-ELIGIBLE REFUNDS
+Refunds are not guaranteed for every request. Each request must be checked according to the order status and refund eligibility.",0.356,"Relevant policy information found: 7. NON-ELIGIBLE REFUNDS
+Refunds are not guaranteed for every request. Each request must be checked according to the order status and refund eligibility."
+What should I do if I receive a damaged product?,"1. REFUND ELIGIBILITY
+Customers can request a refund if they receive a damaged product, wrong product, or an eligible cancelled order.",0.615,"Relevant policy information found: 1. REFUND ELIGIBILITY
+Customers can request a refund if they receive a damaged product, wrong product, or an eligible cancelled order."
+How long does a refund take?,"1. REFUND ELIGIBILITY
+Customers can request a refund if they receive a damaged product, wrong product, or an eligible cancelled order.",0.298,"Relevant policy information found: 1. REFUND ELIGIBILITY
+Customers can request a refund if they receive a damaged product, wrong product, or an eligible cancelled order."
